@@ -8,4 +8,4 @@ INCLUDED MINOR LEAGUES
 
 INCLUDED COLLEGE
 - NCAA DI Baseball
-- NCAA D1 Ice Hockey (Soon)
+- NCAA D1 Ice Hockey (soon)
